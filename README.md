@@ -12,7 +12,8 @@ the stimuli, there was 30 individual Noun missing sentences, and in the other gr
 of a sentence) were obtained over 19 subjects, a qualitative analysis was conducted
 afterward based on the mean of total fixation duration on AOIs.
 ![alt text](https://github.com/insinuate/Analysis-of-reading-behavior-based-on-POS-through-sentence-completion-tasks/blob/master/experiment_heatmap.png?raw=true)
-Figure: fixation Heatmap from 19 subjects on one missing sentences.
+
+Figure: fixation Heatmap from 19 subjects on one missing word sentences.
 
 # Stimuli and experiment setup
 For stimuli content, We constructed 60 different sentences, each with a missing word.
