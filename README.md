@@ -11,6 +11,7 @@ the stimuli, there was 30 individual Noun missing sentences, and in the other gr
 30 individual Verb missing sentences are placed. Gaze metrics of each AOIs(tokens
 of a sentence) were obtained over 19 subjects, a qualitative analysis was conducted
 afterward based on the mean of total fixation duration on AOIs.
+![alt text](https://github.com/insinuate/Analysis-of-reading-behavior-based-on-POS-through-sentence-completion-tasks/blob/master/experiment_heatmap.png?raw=true)
 
 # Stimuli and experiment setup
 For stimuli content, We constructed 60 different sentences, each with a missing word.
@@ -43,4 +44,4 @@ no functionality towards data collection and analysis. List of our experiment st
 sentences could be seen at App
 
 
-![alt text](https://github.com/insinuate/Analysis-of-reading-behavior-based-on-POS-through-sentence-completion-tasks/blob/master/experiment_heatmap.png?raw=true)
+
