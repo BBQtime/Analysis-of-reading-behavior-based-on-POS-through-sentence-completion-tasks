@@ -41,3 +41,6 @@ The voice recording is a method to testify to guarantee that participant is focu
 on the task, which is also an authentication for later selection of gaze data and has
 no functionality towards data collection and analysis. List of our experiment stimuli
 sentences could be seen at App
+
+
+![alt text](https://github.com/insinuate/Analysis-of-reading-behavior-based-on-POS-through-sentence-completion-tasks/blob/master/experiment_heatmap.png?raw=true)
