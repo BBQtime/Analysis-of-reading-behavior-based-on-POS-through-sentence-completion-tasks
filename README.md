@@ -1,6 +1,6 @@
 # Analysis-of-reading-behavior-based-on-POS-through-sentence-completion-tasks
 
-# abstract
+# Abstract
 In this paper, we evaluate the reaction of people’s behavior towards information
 from reading incomplete sentence based on their eye movements’ metrics while they
 try to fill the missing word.The experiment has potential meaning for psycholinguistics as well, however, this paper only uncovers the relationship between part of
