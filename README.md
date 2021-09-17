@@ -46,4 +46,4 @@ no functionality towards data collection and analysis. List of our experiment st
 sentences could be seen at App
 
 # For more
-This experiment was conducted to follow the exam of the eye-track experiment on Cognitive Science 3 course(2017) at the University of Copenhagen. Jintao Ren and Peter Pribil designed the experiment initially. Future research is delayed indefinitely due to lack of funds and time.
+This experiment was conducted to follow the exam of the eye-track experiment on Cognitive Science 3 course(2017) at the University of Copenhagen. Jintao Ren and Peter Pribil designed the experiment. Future research is delayed indefinitely due to lack of funds and time.
