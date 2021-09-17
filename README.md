@@ -1,4 +1,4 @@
-# Analysis of reading behavior based on POS through sentence completion tasks
+# Analysis of reading behavior based on Part-of-Speech (POS) through sentence completion tasks
 
 # Abstract
 In this paper, we evaluate the reaction of people’s behavior toward information
